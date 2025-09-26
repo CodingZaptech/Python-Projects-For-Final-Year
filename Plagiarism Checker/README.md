@@ -1,11 +1,11 @@
-# Check Any Plagiarism
+# Plagiarism Checker
 
 A Python backend application to check similarity between two text inputs to detect plagiarism.
 
 ## Features
 - Cleans text and compares words
 - Calculates similarity percentage
-- Simple console-based interface
+- Simple user interface
 
 ## Required Technologies
 - Python 3.x
