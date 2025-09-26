@@ -13,6 +13,4 @@ A Python backend application that demonstrates binary search to find a given num
 ## How to Run
 1. Clone or download the project files.  
 2. Open a terminal in the project directory.  
-3. Run:
-   ```bash
-   python BinarySearchToFindNumber.py
+3. Run: python BinarySearchToFindNumber.py
