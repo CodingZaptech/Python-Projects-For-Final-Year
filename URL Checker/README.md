@@ -1,4 +1,4 @@
-# Check The URL
+# URL Checker
 
 A Python project using Selenium to check if a website loads properly and display its page title.
 
