@@ -13,6 +13,4 @@ A complete Python-based jackpot guessing game where the user selects a number an
 ## How to Run
 1. Clone or download the project files.  
 2. Open a terminal in the project directory.  
-3. Run:
-   ```bash
-   python JackpotGame.py
+3. Run: python JackpotGame.py
