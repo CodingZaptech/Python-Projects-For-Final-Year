@@ -4,6 +4,6 @@
 
 def get_inputs():
     """
-    Inputs required for GUI Calculator.
+    No inputs required for GUI Calculator.
     """
     return None
